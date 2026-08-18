@@ -26,6 +26,6 @@ En cuanto al tipo de cliente que más compra predominan los hombres y destaca en
 
 Podemos filtrar con los segmentadores situados a la derecha, para ver las gráficas con datos más específicos.
 
-✒ Autores
+✒ Autora
 -Bárbara Brea
 -[@breaemperadorbarbara](https://github.com/breaemperadorbarbara)
